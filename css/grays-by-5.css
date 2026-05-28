@@ -1,0 +1,23 @@
+:root {
+  --gray-00: #000000;
+  --gray-05: #0c0c0c;
+  --gray-10: #191919;
+  --gray-15: #262626;
+  --gray-20: #333333;
+  --gray-25: #3f3f3f;
+  --gray-30: #4c4c4c;
+  --gray-35: #595959;
+  --gray-40: #666666;
+  --gray-45: #727272;
+  --gray-50: #7f7f7f;
+  --gray-55: #8c8c8c;
+  --gray-60: #999999;
+  --gray-65: #a5a5a5;
+  --gray-70: #b2b2b2;
+  --gray-75: #bfbfbf;
+  --gray-80: #cccccc;
+  --gray-85: #d8d8d8;
+  --gray-90: #e5e5e5;
+  --gray-95: #f2f2f2;
+  --gray-100: #ffffff;
+}
