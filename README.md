@@ -14,7 +14,7 @@ The current version is 0.0.0. This project uses [semantic versioning](http://sem
 
 ## Features
 
-* Shades of gray by 5%
+* Shades of gray by 4% or 5%
 
 ## Ideas for sections/pages
 
