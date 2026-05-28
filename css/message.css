@@ -1,0 +1,37 @@
+/*
+ * Messages
+ *
+ * Basic styles for message or alert boxes.
+ */
+
+.message-help {
+	margin: var(--margin-medium);
+	padding: var(--margin-medium);
+	border: 1px solid;
+	border-color: var(--message-yellow-border);
+	background: var(--message-yellow-bg);
+}
+
+.message-info {
+	margin: var(--margin-medium);
+	padding: var(--margin-medium);
+	border: 1px solid;
+	border-color: var(--message-blue-border);
+	background: var(--message-blue-bg);
+}
+
+.message-error {
+	margin: var(--margin-medium);
+	padding: var(--margin-medium);
+	border: 1px solid;
+	border-color: var(--message-red-border);
+	background: var(--message-red-bg);
+}
+
+.message-success {
+	margin: var(--margin-medium);
+	padding: var(--margin-medium);
+	border: 1px solid;
+	border-color: var(--message-green-border);
+	background: var(--message-green-bg);
+}
