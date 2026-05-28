@@ -1,0 +1,51 @@
+:root {
+	/*
+     *------------------------------------------------------------------------------
+     *    SPACING
+     *------------------------------------------------------------------------------
+     */
+	--spacing-tiny: 0.3rem;
+	--spacing-small: 0.5rem;
+	--spacing-medium: 1rem;
+	--spacing-large: 2rem;
+
+	--margin-tiny: var(--spacing-tiny);
+	--margin-small: var(--spacing-small);
+	--margin-medium: var(--spacing-medium);
+	--margin-large: var(--spacing-large);
+
+	--padding-tiny: var(--spacing-tiny);
+	--padding-small: var(--spacing-small);
+	--padding-medium: var(--spacing-medium);
+	--padding-large: var(--spacing-large);
+
+	/*
+     *------------------------------------------------------------------------------
+     *    COLORS
+     *------------------------------------------------------------------------------
+     */
+	--message-yellow-bg: #fcf999;
+	--message-yellow-border: #f2d520;
+	--message-red-bg: #f4979b;
+	--message-red-border: #b41a20;
+	--message-green-bg: #9ef1a0;
+	--message-green-border: #1ab420;
+	--message-blue-bg: #00b2ff;
+	--message-blue-border: #1a20b4;
+
+	/*
+     *------------------------------------------------------------------------------
+     *    FONTS
+     *------------------------------------------------------------------------------
+     */
+	--font-sans: ui-sans-serif, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	--font-serif: ui-serif, "Georgia", Cambria, "Times New Roman", Times, serif;
+	--font-mono: ui-monospace, "Hack", "Source Code Pro", monospace;
+
+	--font-xsmall: 0.750rem;
+	--font-small: 0.875rem;
+	--font-base: 1rem;
+	--font-medium: 1rem;
+	--font-large: 1.250rem;
+	--font-xlarge: 1.500rem;
+}
