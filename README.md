@@ -16,6 +16,8 @@ The current version is 0.0.0. This project uses [semantic versioning](http://sem
 
 * Shades of gray by 4% or 5%
 * Use Base Settings
+* Add message dialog styles
+* Add typography formatting styles
 
 ## Ideas for sections/pages
 
