@@ -1,0 +1,46 @@
+/*
+ * Typography
+ *
+ * Simple text formatting  
+ */
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-small {
+  font-size: var(--font-small);
+}
+
+.text-base,
+.text-medium {
+  font-size: var(--font-base);
+}
+
+.text-large {
+  font-size: var(--font-large);
+}
+
+.text-xlarge {
+  font-size: var(--font-xlarge);
+}
+
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.text-capitalize {
+  text-transform: capitalize;
+}
